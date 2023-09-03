@@ -1,0 +1,23 @@
+{
+  "name": "regalame_bot",
+  "version": "0.0.1",
+  "description": "Programmed bot created to intercept and inmediatly respond when my neighbors are making gif at whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durbonca/regalame_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp"
+  ],
+  "author": "Manuel Duran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/durbonca/regalame_bot/issues"
+  },
+  "homepage": "https://github.com/durbonca/regalame_bot#readme"
+}
