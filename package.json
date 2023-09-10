@@ -4,6 +4,7 @@
   "description": "Programmed bot created to intercept and inmediatly respond when my neighbors are making gif at whatsapp",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/durbonca/regalame_bot/issues"
   },
-  "homepage": "https://github.com/durbonca/regalame_bot#readme"
+  "homepage": "https://github.com/durbonca/regalame_bot#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
 }
